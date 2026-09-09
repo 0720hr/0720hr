@@ -61,6 +61,12 @@ Every detection was triggered by a real attack inside the lab and verified after
 
 ## Tools
 
+<div align="center">
+
+[![My tools](https://skillicons.dev/icons?i=docker,linux,ubuntu,bash,powershell,git,github,windows)](https://skillicons.dev)
+
+</div>
+
 | Area | What I use |
 |---|---|
 | **SIEM and detection** | Wazuh 4.14.5, Sysmon, custom detection rules, MITRE ATT&CK |
@@ -92,6 +98,17 @@ Every detection was triggered by a real attack inside the lab and verified after
 </a>
 
 Currently working the SOC Level 1 path. The badge above is live and updates with my rank, rooms and streak.
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0720hr&show_icons=true&hide_border=true&count_private=false&theme=midnight-purple" alt="GitHub stats">
+<img height="165" src="https://streak-stats.demolab.com/?user=0720hr&hide_border=true&theme=midnight-purple" alt="GitHub streak">
 
 </div>
 
