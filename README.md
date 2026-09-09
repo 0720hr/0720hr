@@ -2,7 +2,7 @@
 
 # Hey there, I'm Hajra 👋
 
-"Curious about how attacks work, focused on how to stop them."
+Curious about how attacks work, focused on how to stop them.
 
 **Detection Engineering • SOC Automation • Adversary Emulation**
 
@@ -26,15 +26,17 @@ All four live in [0720hr/hr_range](https://github.com/0720hr/hr_range).
 
 ---
 
-## Skill Set
+## Skills
 
-- **Detection engineering:** writing and tuning custom rules, and mapping detections to MITRE ATT&CK
-- **SIEM operations:** deploying and running Wazuh across manager, indexer and dashboard, enrolling agents, and analysing logs
-- **Endpoint detection:** EDR telemetry with LimaCharlie and Sysmon
-- **Automation and response:** SOAR playbooks in Shuffle with API-driven containment
-- **Adversary emulation:** running ATT&CK techniques with Atomic Red Team and measuring detection coverage
-- **Incident handling:** triage, timelines and case management in DFIR-IRIS
-- **Infrastructure and networking:** Windows Server, Active Directory, VMware, Docker and Linux, with traffic analysis using Wireshark and Nmap
+| Area | What it involves |
+|---|---|
+| **Detection engineering** | writing and tuning custom rules, and mapping detections to MITRE ATT&CK |
+| **SIEM operations** | deploying and running Wazuh across manager, indexer and dashboard, enrolling agents, and analysing logs |
+| **Endpoint detection** | EDR telemetry with LimaCharlie and Sysmon |
+| **Automation and response** | SOAR playbooks in Shuffle with API-driven containment |
+| **Adversary emulation** | running ATT&CK techniques with Atomic Red Team and measuring detection coverage |
+| **Incident handling** | triage, timelines and case management in DFIR-IRIS |
+| **Infrastructure and networking** | Windows Server, Active Directory, VMware, Docker and Linux, with traffic analysis using Wireshark and Nmap |
 
 ---
 
