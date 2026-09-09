@@ -89,36 +89,18 @@ Every detection was triggered by a real attack inside the lab and verified after
 
 ---
 
-## Training and Certifications
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/EHR">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/EHR.png" alt="TryHackMe badge for EHR">
-</a>
-
-</div>
-
-| | |
-|---|---|
-| **Certification in progress** | Microsoft SC-200, Security Operations Analyst |
-| **Certification completed** | Networking Essentials (IT Masters, Charles Sturt University) |
-| **TryHackMe** | Currently on the SOC Level 1 path; completed the Cybersecurity 101 and AI Security tracks |
-
-<div align="center">
-
-The TryHackMe badge above is live and updates with my current rank, rooms and streak.
-
-</div>
-
----
-
-## GitHub Activity
+## Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=0720hr&show_icons=true&hide_border=true&count_private=false&theme=midnight-purple" alt="GitHub stats">
 <img height="165" src="https://streak-stats.demolab.com/?user=0720hr&hide_border=true&theme=midnight-purple" alt="GitHub streak">
+
+<br>
+
+<a href="https://tryhackme.com/p/EHR">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/EHR.png" alt="TryHackMe badge for EHR">
+</a>
 
 </div>
 
