@@ -89,7 +89,7 @@ Every detection was triggered by a real attack inside the lab and verified after
 
 ---
 
-## Hands-On Training
+## Training and Certifications
 
 <div align="center">
 
@@ -97,7 +97,17 @@ Every detection was triggered by a real attack inside the lab and verified after
   <img src="https://tryhackme-badges.s3.amazonaws.com/EHR.png" alt="TryHackMe badge for EHR">
 </a>
 
-Currently working the SOC Level 1 path. The badge above is live and updates with my rank, rooms and streak.
+</div>
+
+| | |
+|---|---|
+| **Certification in progress** | Microsoft SC-200, Security Operations Analyst |
+| **Certification completed** | Networking Essentials (IT Masters, Charles Sturt University) |
+| **TryHackMe** | Currently on the SOC Level 1 path; completed the Cybersecurity 101 and AI Security tracks |
+
+<div align="center">
+
+The TryHackMe badge above is live and updates with my current rank, rooms and streak.
 
 </div>
 
