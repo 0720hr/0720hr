@@ -2,7 +2,7 @@
 
 # Hey there, I'm Hajra 👋
 
-"Curious about how attacks work, focused on how to stop them."
+Curious about how attacks work, focused on how to stop them.
 
 **Detection Engineering • SOC Automation • Adversary Emulation**
 
@@ -13,7 +13,7 @@
 
 ---
 
-## What I'm working on
+## 🧪 What I'm working on
 
 A security home lab I built and then attacked, to see what my defences actually catch. Four projects, each written up with the problems I hit and how I checked the fix:
 
@@ -26,7 +26,7 @@ All four live in [0720hr/hr_range](https://github.com/0720hr/hr_range).
 
 ---
 
-## Skills
+## 🛡️ Skills
 
 | Area | What it involves |
 |---|---|
@@ -40,7 +40,7 @@ All four live in [0720hr/hr_range](https://github.com/0720hr/hr_range).
 
 ---
 
-## Tools Stack
+## 🧰 Tools Stack
 
 <div align="center">
 
