@@ -1,6 +1,13 @@
+<div align="center">
+
 # Hajra Ramzan
 
 I'm a cybersecurity student working towards a SOC analyst role. I learn detection by building a home lab, attacking it, and writing up what I find.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E91E63?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajra-ramzan-hry/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-E91E63?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/EHR)
+
+</div>
 
 ---
 
@@ -37,9 +44,8 @@ All four live in [0720hr/hr_range](https://github.com/0720hr/hr_range).
 
 ---
 
-## Reach me
-
-- **LinkedIn**: [hajra-ramzan-hry](https://www.linkedin.com/in/hajra-ramzan-hry/)
-- **TryHackMe**: [EHR](https://tryhackme.com/p/EHR)
+<div align="center">
 
 Open to SOC placements and internships.
+
+</div>
