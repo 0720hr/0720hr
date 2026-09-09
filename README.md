@@ -17,9 +17,15 @@ All four live in [0720hr/hr_range](https://github.com/0720hr/hr_range).
 
 ---
 
-## Tools I use
+## Tools Stack
 
-Wazuh · LimaCharlie · Sysmon · Shuffle · MITRE ATT&CK · Atomic Red Team · DFIR-IRIS · Docker · Linux · PowerShell · Git
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=docker,linux,bash,powershell,git)](https://skillicons.dev)
+
+</div>
+
+**Security tools:** Wazuh · LimaCharlie · Sysmon · Shuffle · MITRE ATT&CK · Atomic Red Team · DFIR-IRIS
 
 ---
 
