@@ -74,6 +74,8 @@ Every detection was triggered by a real attack inside the lab and verified after
 **University of East London**, Junior IT Technician. Three months standing up Windows Server 2022 with Active Directory, DNS and DHCP, and running Windows and Ubuntu machines in VMware. Knowing how infrastructure is actually put together is what lets me reason about what an attacker is doing to it, because half of detection is knowing what normal looks like.
 
 ---
+**Stats**
+![Hajra's GitHub stats](https://github-readme-stats.vercel.app/api?username=0720hr&theme=dark&show_icons=true)
 
 <div align="center">
 
