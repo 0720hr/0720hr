@@ -21,11 +21,19 @@ All four live in [0720hr/hr_range](https://github.com/0720hr/hr_range).
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=docker,linux,bash,powershell,git)](https://skillicons.dev)
+![Wazuh](https://img.shields.io/badge/Wazuh-E91E63?style=for-the-badge&logo=wazuh&logoColor=white)
+![LimaCharlie](https://img.shields.io/badge/LimaCharlie-E91E63?style=for-the-badge)
+![Sysmon](https://img.shields.io/badge/Sysmon-E91E63?style=for-the-badge)
+![Shuffle](https://img.shields.io/badge/Shuffle-E91E63?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E91E63?style=for-the-badge)
+![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-E91E63?style=for-the-badge)
+![DFIR-IRIS](https://img.shields.io/badge/DFIR--IRIS-E91E63?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-E91E63?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E91E63?style=for-the-badge&logo=linux&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-E91E63?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E91E63?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-**Security tools:** Wazuh · LimaCharlie · Sysmon · Shuffle · MITRE ATT&CK · Atomic Red Team · DFIR-IRIS
 
 ---
 
