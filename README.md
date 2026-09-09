@@ -13,7 +13,7 @@ Curious about how attacks work, focused on how to stop them.
 
 ---
 
-## 🧪 What I'm working on
+## 🚀 What I'm working on
 
 A security home lab I built and then attacked, to see what my defences actually catch. Four projects, each written up with the problems I hit and how I checked the fix:
 
