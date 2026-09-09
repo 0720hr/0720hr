@@ -1,11 +1,13 @@
 <div align="center">
 
-# Hajra Ramzan
+# Hey there, I'm Hajra 👋
 
-Curious about how attacks work, and focused on how to detect and stop them.
+Curious about how attacks work, focused on how to stop them.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/hajra-ramzan-hry/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-C4B5FD?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/EHR)
+**Detection Engineering • SOC Automation • Adversary Emulation**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7010A6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajra-ramzan-hry/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-7010A6?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/EHR)
 
 </div>
 
@@ -40,17 +42,17 @@ All four live in [0720hr/hr_range](https://github.com/0720hr/hr_range).
 
 <div align="center">
 
-![Wazuh](https://img.shields.io/badge/Wazuh-C4B5FD?style=for-the-badge&logo=wazuh&logoColor=black)
-![LimaCharlie](https://img.shields.io/badge/LimaCharlie-C4B5FD?style=for-the-badge)
-![Sysmon](https://img.shields.io/badge/Sysmon-C4B5FD?style=for-the-badge)
-![Shuffle](https://img.shields.io/badge/Shuffle-C4B5FD?style=for-the-badge)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C4B5FD?style=for-the-badge)
-![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-C4B5FD?style=for-the-badge)
-![DFIR-IRIS](https://img.shields.io/badge/DFIR--IRIS-C4B5FD?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-C4B5FD?style=for-the-badge&logo=docker&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-C4B5FD?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-C4B5FD?style=for-the-badge&logo=powershell&logoColor=black)
-![Git](https://img.shields.io/badge/Git-C4B5FD?style=for-the-badge&logo=git&logoColor=black)
+![Wazuh](https://img.shields.io/badge/Wazuh-7010A6?style=for-the-badge&logo=wazuh&logoColor=white)
+![LimaCharlie](https://img.shields.io/badge/LimaCharlie-7010A6?style=for-the-badge)
+![Sysmon](https://img.shields.io/badge/Sysmon-7010A6?style=for-the-badge)
+![Shuffle](https://img.shields.io/badge/Shuffle-7010A6?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-7010A6?style=for-the-badge)
+![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-7010A6?style=for-the-badge)
+![DFIR-IRIS](https://img.shields.io/badge/DFIR--IRIS-7010A6?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-7010A6?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-7010A6?style=for-the-badge&logo=linux&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-7010A6?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7010A6?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
