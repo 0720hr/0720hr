@@ -97,21 +97,6 @@ Currently working the SOC Level 1 path. The badge above is live and updates with
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0720hr&show_icons=true&hide_border=true&count_private=false&theme=midnight-purple" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0720hr&layout=compact&hide_border=true&theme=midnight-purple" alt="Top languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=0720hr&hide_border=true&theme=midnight-purple" alt="GitHub streak">
-
-</div>
-
----
-
 <div align="center">
 
 Open to SOC placements and internships in the UK.
