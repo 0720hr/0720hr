@@ -75,6 +75,17 @@ Every detection was triggered by a real attack inside the lab and verified after
 
 ---
 
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0720hr&show_icons=true&count_private=false&hide_border=false&title_color=ff5c8a&icon_color=ff5c8a&text_color=f6c6d9&bg_color=1c1420&border_color=ff8fb1&ring_color=ff5c8a" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0720hr&layout=compact&hide_border=false&title_color=ff5c8a&icon_color=ff5c8a&text_color=f6c6d9&bg_color=1c1420&border_color=ff8fb1" alt="Top languages">
+
+</div>
+
+---
+
 <div align="center">
 
 Open to SOC placements and internships in the UK.
