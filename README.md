@@ -2,7 +2,7 @@
 
 # Hey there, I'm Hajra 👋
 
-Curious about how attacks work, focused on how to stop them.
+"Curious about how attacks work, focused on how to stop them."
 
 **Detection Engineering • SOC Automation • Adversary Emulation**
 
